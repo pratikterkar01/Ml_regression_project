@@ -2,6 +2,7 @@ numpy
 pandas
 seaborn
 matplotlib
-scikit-lrarn
 
--e .
+flask
+
+-e . 

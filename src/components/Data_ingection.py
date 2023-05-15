@@ -13,7 +13,9 @@ from src.components.Data_transformation import DataTransformation
 
 @dataclass
 class DataIngestionconfig:
-    train_data_path:str=os.path.join('artifacts','train.csv')
+    #this code is written insted of giving direct path  because when the project is deployed 
+    #this code run in linux also (this note is for all 3 line below)
+    train_data_path:str=os.path.join('artifacts','train.csv') 
     test_data_path:str=os.path.join('artifacts','test.csv')
     raw_data_path:str=os.path.join('artifacts','raw.csv')
 

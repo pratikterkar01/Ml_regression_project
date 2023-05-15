@@ -1,0 +1,3 @@
+[ 2023-05-15 13:12:56,452 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-15 13:12:56,452 ] 186 werkzeug - INFO -  * Debugger PIN: 110-115-248
+[ 2023-05-15 13:19:39,092 ] 186 werkzeug - INFO -  * Detected change in 'c:\\housepriceprdiction\\app.py', reloading
