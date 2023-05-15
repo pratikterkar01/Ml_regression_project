@@ -1,0 +1,3 @@
+[ 2023-05-15 13:22:09,641 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-15 13:22:09,645 ] 186 werkzeug - INFO -  * Debugger PIN: 542-379-288
+[ 2023-05-15 13:22:17,128 ] 186 werkzeug - INFO - 127.0.0.1 - - [15/May/2023 13:22:17] "GET /predict HTTP/1.1" 200 -
