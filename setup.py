@@ -20,7 +20,7 @@ def get_requirments(file_path:str)->List[str]:
 
 
 setup(
-    name="regressionp _project",
+    name="regression _project",
     version="0.0.1",
     author="pratik",
     author_email="pratikterkar@gmail.com",

@@ -73,7 +73,7 @@ class DataTransformation:
         try:
             # Reading train and test data
             train_df = pd.read_csv(train_path)
-            test_df = pd.read_csv(test_path)
+            test_df = pd.read_csv(test_path)    
 
             logging.info('Read train and test data completed')
             logging.info(f'Train Dataframe Head : \n{train_df.head().to_string()}')

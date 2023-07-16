@@ -1,10 +1,10 @@
 README.md
 setup.py
-regressionp_project.egg-info/PKG-INFO
-regressionp_project.egg-info/SOURCES.txt
-regressionp_project.egg-info/dependency_links.txt
-regressionp_project.egg-info/requires.txt
-regressionp_project.egg-info/top_level.txt
+regression_project.egg-info/PKG-INFO
+regression_project.egg-info/SOURCES.txt
+regression_project.egg-info/dependency_links.txt
+regression_project.egg-info/requires.txt
+regression_project.egg-info/top_level.txt
 src/__init__.py
 src/exception.py
 src/logger.py

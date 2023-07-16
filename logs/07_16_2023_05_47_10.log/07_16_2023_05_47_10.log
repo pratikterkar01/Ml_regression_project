@@ -1,0 +1,13 @@
+[ 2023-07-16 05:47:11,761 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-16 05:47:11,776 ] 187 werkzeug - INFO -  * Debugger PIN: 524-586-220
+[ 2023-07-16 05:47:32,639 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:47:32] "GET / HTTP/1.1" 200 -
+[ 2023-07-16 05:48:18,262 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:48:18] "GET /predict HTTP/1.1" 200 -
+[ 2023-07-16 05:48:37,340 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-16 05:48:37,462 ] 28 root - INFO - Exception occured in prediction
+[ 2023-07-16 05:48:37,492 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:48:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-07-16 05:48:37,510 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:48:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-16 05:48:37,515 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:48:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-16 05:48:37,591 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:48:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-16 05:48:37,610 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 05:48:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-16 06:10:27,390 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-16 06:10:27,419 ] 187 werkzeug - INFO - 127.0.0.1 - - [16/Jul/2023 06:10:27] "POST /predict HTTP/1.1" 200 -

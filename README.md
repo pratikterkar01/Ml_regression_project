@@ -21,4 +21,5 @@ conda activate "path_of_venv"
 ## 8 model traning 
 ## 9.code in thr utils.py
 ## 10. starts the pipelines(traning pipeline) (and run the training pipeline to get the out put of the best model having best r2 score)
+##
 
